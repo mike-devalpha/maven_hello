@@ -113,12 +113,12 @@
     <repository>
       <id>nexus3</id>
       <name>Internal Releases</name>
-      <url>http://10.142.0.28:8081/repository/maven-releases/</url>
+      <url>http://35.200.135.205:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
       <id>nexus3</id>
       <name>Internal Snapshot Releases</name>
-      <url>http://10.142.0.28:8081/repository/maven-snapshots/</url>
+      <url>http://35.200.135.205:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 
