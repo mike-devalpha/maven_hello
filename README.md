@@ -14,3 +14,6 @@ Conventions
 This example follows the following basic conventions:
 
 | unit test | integration test --- | --- | --- resides in: | src/test/java/*Test.java | src/test/java/*IT.java executes in Maven phase: | test | verify handled by Maven plugin: | surefire | failsafe
+
+
+sample commit
