@@ -111,12 +111,12 @@
 
   <distributionManagement>
     <repository>
-      <id>nexus3</id>
+      <id>nexus1</id>
       <name>Internal Releases</name>
       <url>http://34.93.155.172:8081//repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
-      <id>nexus3</id>
+      <id>nexus1</id>
       <name>Internal Snapshot Releases</name>
       <url>http://34.93.155.172:8081//repository/maven-snapshots/</url>
     </snapshotRepository>
